@@ -9,7 +9,7 @@ replace github.com/filecoin-project/lotus => ./extern/lotus
 require (
 	github.com/astaxie/beego v1.12.0
 	github.com/filecoin-project/go-address v0.0.0-20200107215422-da8eea2842b5
-	github.com/filecoin-project/lotus v0.0.0-00010101000000-000000000000
+	github.com/filecoin-project/lotus v0.2.7
 	github.com/globalsign/mgo v0.0.0-20181015135952-eeefdecb41b8
 	github.com/go-redis/redis v6.15.6+incompatible
 	github.com/golang/protobuf v1.3.2
@@ -33,4 +33,3 @@ require (
 )
 
 replace github.com/coreos/go-systemd => github.com/coreos/go-systemd/v22 v22.0.0
-
