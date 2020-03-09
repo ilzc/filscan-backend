@@ -21,7 +21,7 @@ require (
 	github.com/savaki/geoip2 v0.0.0-20150727150920-9968b08fbf39
 	github.com/shiena/ansicolor v0.0.0-20151119151921-a422bbe96644 // indirect
 	github.com/whyrusleeping/cbor-gen v0.0.0-20200121162646-b63bacf5eaf8
-	github.com/ilzc/gosf v0.1.16
+	github.com/ilzc/gosf v0.1.17
 	github.com/ilzc/common v0.1.0
 	go.uber.org/zap v1.13.0
 	go4.org v0.0.0-20190313082347-94abd6928b1d
